@@ -1,8 +1,0 @@
----
-layout: post
-title:  "next blog!"
-date:   2021-11-17 14:31
-categories: jekyll update
----
-
-Hello
