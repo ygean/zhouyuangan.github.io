@@ -1,8 +1,6 @@
-## Zhou's Blog
+## Recent reading and work
 
 ### Generative AI
-
-### Recent reading and work
 
 - [Image inpainting related work contiguous update](./articles/Image-inpainting-related-work-contiguous-update.md)
 
