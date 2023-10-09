@@ -1,6 +1,6 @@
 ## Recent reading and work
 
-### Generative AI
+### 图像修复
 
 - [Image inpainting related work contiguous update](./articles/Image-inpainting-related-work-contiguous-update.md)
 
