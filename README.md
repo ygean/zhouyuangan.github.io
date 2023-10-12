@@ -4,6 +4,6 @@
 
 - [Image inpainting related work contiguous update](./articles/Image-inpainting-related-work-contiguous-update.md)
 
-### Image variation
+### Image variation generation
 
-- [Image Variation](./articles/image-variation.md)
+- [Image Variation](./articles/image-variation-generation.md)
