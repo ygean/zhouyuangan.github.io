@@ -1,5 +1,9 @@
 ## Recent reading and work
 
+### Text To Image
+
+Text-to-Image Generation is a task in computer vision and natural language processing where the goal is to generate an image that corresponds to a given textual description. :book: [readmore](./articles/text-to-image-survey.md)
+
 ### Image Inpainting
 
 ![inpainting example image](https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif)
@@ -19,3 +23,11 @@ Low-Light Image Enhancement is a computer vision task that involves improving th
 ![Image Harmonization](https://raw.githubusercontent.com/bcmi/Image-Harmonization-Dataset-iHarmony4/master/examples/results_gif.gif)
 
 Image harmonization aims to modify the color of the composited region with respect to the specific background...:book: [readmore](./articles/image-harmonization-survey.md)
+
+### Image To Text
+
+:book: [readmore](./articles/image-to-text.md)
+
+### Layout Generation
+
+:book: [readmore](./articles/layout-generate.md)
