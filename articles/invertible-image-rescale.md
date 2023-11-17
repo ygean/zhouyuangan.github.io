@@ -1,0 +1,2 @@
+ - Scale-arbitrary Invertible Image Downscaling. [project page](https://doubiiu.github.io/projects/aidn/) , [code](https://github.com/Doubiiu/AIDN)
+ - Invertible Image Rescaling [code](https://github.com/pkuxmq/Invertible-Image-Rescaling)

@@ -31,3 +31,7 @@ Image harmonization aims to modify the color of the composited region with respe
 ### Layout Generation
 
 :book: [readmore](./articles/layout-generate.md)
+
+### Invertible Image Rescale
+
+:book: [readmore](./articles/invertible-image-rescale.md)
